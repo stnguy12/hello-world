@@ -49,7 +49,7 @@ public class GitDemo {
             newNumber = newNumber * 10 + temp;
             num /= 10;
         }
-        
+        reverseNumber = newNumber;
         return newNumber;
     }
     
